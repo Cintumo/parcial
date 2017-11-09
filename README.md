@@ -1,0 +1,2 @@
+# parcial
+tecnicas de programcion
